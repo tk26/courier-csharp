@@ -3,7 +3,7 @@
   <PropertyGroup>
     <AssemblyName>Com.Courier.Test</AssemblyName>
     <RootNamespace>Com.Courier.Test</RootNamespace>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
